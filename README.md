@@ -7,6 +7,6 @@ Its a github dump for the stanford140 Data Set
 
 To use the data set 
 
-- git clone https://github.com/PK258/Data.git
+- git clone https://github.com/PK258/TwitterSentiment_TrainingData.git
 - cd /Data
 - unzip sentiment140.zip
